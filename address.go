@@ -10,9 +10,9 @@ import (
 	"errors"
 
 	"github.com/btcsuite/golangcrypto/ripemd160"
-	"github.com/dashpay/godash/btcec"
-	"github.com/dashpay/godash/chaincfg"
-	"github.com/dashpay/godashutil/base58"
+	"github.com/sectoken-dev/godash/btcec"
+	"github.com/sectoken-dev/godash/chaincfg"
+	"github.com/sectoken-dev/godashutil/base58"
 )
 
 var (

@@ -12,7 +12,7 @@ import (
 	"bytes"
 	"sort"
 
-	"github.com/dashpay/godash/wire"
+	"github.com/sectoken-dev/godash/wire"
 )
 
 // InPlaceSort modifies the passed transaction inputs and outputs to be sorted

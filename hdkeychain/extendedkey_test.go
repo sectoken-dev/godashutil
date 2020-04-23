@@ -16,8 +16,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/dashpay/godash/chaincfg"
-	"github.com/dashpay/godashutil/hdkeychain"
+	"github.com/sectoken-dev/godash/chaincfg"
+	"github.com/sectoken-dev/godashutil/hdkeychain"
 )
 
 // TestBIP0032Vectors tests the vectors provided by [BIP32] to ensure the

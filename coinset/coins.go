@@ -5,8 +5,8 @@ import (
 	"errors"
 	"sort"
 
-	"github.com/dashpay/godash/wire"
-	"github.com/dashpay/godashutil"
+	"github.com/sectoken-dev/godash/wire"
+	"github.com/sectoken-dev/godashutil"
 )
 
 // Coin represents a spendable transaction outpoint

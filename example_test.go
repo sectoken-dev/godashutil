@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/dashpay/godashutil"
+	"github.com/sectoken-dev/godashutil"
 )
 
 func ExampleAmount() {

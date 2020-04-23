@@ -12,8 +12,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/dashpay/godash/wire"
-	"github.com/dashpay/godashutil/txsort"
+	"github.com/sectoken-dev/godash/wire"
+	"github.com/sectoken-dev/godashutil/txsort"
 )
 
 // TestSort ensures the transaction sorting works according to the BIP.

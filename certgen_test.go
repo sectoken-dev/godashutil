@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dashpay/godashutil"
+	"github.com/sectoken-dev/godashutil"
 	//"github.com/davecgh/go-spew/spew"
 )
 

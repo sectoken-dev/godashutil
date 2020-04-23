@@ -9,10 +9,10 @@ import (
 	"bytes"
 	"errors"
 
-	"github.com/dashpay/godash/btcec"
-	"github.com/dashpay/godash/chaincfg"
-	"github.com/dashpay/godash/wire"
-	"github.com/dashpay/godashutil/base58"
+	"github.com/sectoken-dev/godash/btcec"
+	"github.com/sectoken-dev/godash/chaincfg"
+	"github.com/sectoken-dev/godash/wire"
+	"github.com/sectoken-dev/godashutil/base58"
 )
 
 // ErrMalformedPrivateKey describes an error where a WIF-encoded private

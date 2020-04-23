@@ -10,9 +10,9 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/dashpay/godash/wire"
-	"github.com/dashpay/godashutil"
-	"github.com/dashpay/godashutil/bloom"
+	"github.com/sectoken-dev/godash/wire"
+	"github.com/sectoken-dev/godashutil"
+	"github.com/sectoken-dev/godashutil/bloom"
 )
 
 // TestFilterLarge ensures a maximum sized filter can be created.

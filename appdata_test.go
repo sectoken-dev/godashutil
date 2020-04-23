@@ -13,7 +13,7 @@ import (
 	"testing"
 	"unicode"
 
-	"github.com/dashpay/godashutil"
+	"github.com/sectoken-dev/godashutil"
 )
 
 // TestAppDataDir tests the API for AppDataDir to ensure it gives expected
